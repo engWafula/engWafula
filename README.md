@@ -8,7 +8,7 @@ I'm a 23 year old, who is passionate about coding, solving problems, automating 
 
 - 🔭 I’m currently a third year Computer Science student at Makerere University, in Uganda.
 - 📚 I am a passionate MERN stack developer and exploring interest in Machine Learning and Data Science technologies.
-- 👯 We are building a better and more trusted platform to  find new good houses to  rent at <a href="https://ssenguka-frontend-updated.vercel.app/">Senguka</a>which  is  one of  my current start up am working on.
+- 👯 We are building a better and more trusted platform to  find new good houses to  rent at <a href="https://ssenguka-frontend-updated.vercel.app/">Senguka</a> which  is  one of  my current start up am working on.
 - 💡 Otherwise, I love travelling,sports and  watching  movies.
 
 <p align='left'>
