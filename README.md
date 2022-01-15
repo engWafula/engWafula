@@ -13,7 +13,6 @@ I'm a 23 year old, who is passionate about coding, solving problems, automating 
 
 <p align='left'>
 <a href="https://www.linkedin.com/in/wafula-allan-8a5490204/"><img height="26" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-
 <a href="https://twitter.com/WafulaAllanIsa1"><img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://wafula--allan-isaac.web.app/"><img height="27" src="https://img.shields.io/badge/portfolio-%2312100E.svg?&style=for-the-badge&logo=superuser&logoColor=white" alt=""></a>&nbsp;&nbsp;
 <a href="mailto:wafulaallan5@gmail.com"><img height="27" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=gmail" alt="email address"></a>
