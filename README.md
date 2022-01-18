@@ -12,7 +12,7 @@ I'm a 23 year old, who is passionate about coding, solving problems, automating 
 - 💡 Otherwise, I love travelling,sports and  watching  movies.
 - 
  <div>
-  <a href="https://github.com/Bkroland19">
+  <a href="https://github.com/engWafula">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Bkroland19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bkroland19&layout=compact&langs_count=7&theme=dracula"/>
 </div>
