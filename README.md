@@ -10,7 +10,7 @@ I'm a 23 year old, who is passionate about coding, solving problems, automating 
 - 📚 I am a passionate MERN stack developer and exploring interest in Machine Learning and Data Science technologies.
 - 👯 We are building a better and more trusted platform to  find new good houses to  rent at <a href="https://ssenguka-frontend-updated.vercel.app/">Senguka</a> which  is  one of  my current start up am working on.
 - 💡 Otherwise, I love travelling,sports and  watching  movies.
-- 
+
  <div>
   <a href="https://github.com/engWafula">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=engWafula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
