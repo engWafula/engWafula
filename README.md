@@ -4,7 +4,10 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a 23 year old, who is passionate about coding, solving problems, automating stuff, and building softwares  that change the world but on top of that am  also willing to  learn.
+
+I am Web Frontend Developer with 4 years of professional experience. Skilled in various technologies such as React, REST/RESTful APIs, CSS, GitHub, Node.js, Redux, JavaScript, Tailwind CSS, and React Native. My work style is extremely ﬂexible—working on big projects requires me to be adaptive. In general, I try to work as quickly and eﬃciently as possible to achieve the best results. Am good at collaboration, so I use the team environment to check for errors. I am a perfectionist and a driven worker, and I think my clear communication skills allow me to bring out the best in any team or in any project am on.
+
+Am  also a tutor on youtube please subscribe to my channel so that you can learn how to code like me
 
 - 🔭 I’m currently a  Computer Science Graduand at Makerere University, in Uganda.
 - 📚 I am a passionate MERN stack developer and exploring interest in Machine Learning and Data Science technologies.
