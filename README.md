@@ -5,7 +5,7 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
-👋 Hi there! I'm Wafula Allan Isaac, a passionate Full-Stack Web Developer with over five years of professional experience. Skilled in various technologies such as React, Node.js, TypeScript, Docker, PostgreSQL, and more.
+👋 Hi there! I'm Wafula Allan Isaac, a passionate Full-Stack Web Developer with over five years of professional experience. Skilled in various technologies such as React,Next js, Node.js, TypeScript, Docker, PostgreSQL, and more.
 
 - 🎓 I’m currently pursuing my Bachelor of Science in Computer Science at Makerere University, Uganda.
 
