@@ -17,8 +17,6 @@
 
 - 🌱 I'm also passionate about teaching and sharing knowledge, and I run a YouTube channel where I share coding tutorials. Subscribe to learn how to code like a pro!
 
-- 👯 Outside of work, I'm building Senguka, a platform to find new rental houses, aiming to make house hunting easier and more reliable.
-
 - 💡 In my free time, I love traveling, playing sports, and watching movies.
 
 - 📫 You can reach me at wafulaallan5@gmail.com or check out my work on GitHub.
