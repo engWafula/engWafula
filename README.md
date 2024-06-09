@@ -7,7 +7,7 @@
 
 👋 Hi there! I'm Wafula Allan Isaac, a passionate Full-Stack Web Developer with over five years of professional experience. Skilled in various technologies such as React,Next js, Node.js, TypeScript, Docker, PostgreSQL, and more.
 
-- 🎓 I’m currently pursuing my Bachelor of Science in Computer Science at Makerere University, Uganda.
+- 🎓 I have a Bachelors degree of Science in Computer Science at Makerere University, Uganda.
 
 - 🔭 I specialize in developing innovative digital solutions for sectors such as healthcare, education, and e-commerce. My work reflects my commitment to using technology to address critical global challenges, particularly in combating climate change.
 
