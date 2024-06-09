@@ -5,14 +5,23 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
-I am Web Frontend Developer with 4 years of professional experience. Skilled in various technologies such as React, REST/RESTful APIs, CSS, GitHub, Node.js, Redux, JavaScript, Tailwind CSS, and React Native. My work style is extremely ﬂexible—working on big projects requires me to be adaptive. In general, I try to work as quickly and eﬃciently as possible to achieve the best results. Am good at collaboration, so I use the team environment to check for errors. I am a perfectionist and a driven worker, and I think my clear communication skills allow me to bring out the best in any team or in any project am on.
+👋 Hi there! I'm Wafula Allan Isaac, a passionate Full-Stack Web Developer with over five years of professional experience. Skilled in various technologies such as React, Node.js, TypeScript, Docker, PostgreSQL, and more.
 
-Am  also a tutor on youtube please subscribe to my channel so that you can learn how to code like me
+- 🎓 I’m currently pursuing my Bachelor of Science in Computer Science at Makerere University, Uganda.
 
-- 🔭 I’m currently a  Computer Science Graduand at Makerere University, in Uganda.
-- 📚 I am a passionate MERN stack developer and exploring interest in Machine Learning and Data Science technologies.
-- 👯 We are building a better and more trusted platform to  find new good houses to  rent at <a href="https://ssenguka-frontend-updated.vercel.app/">Senguka</a> which  is  one of  my current start up am working on.
-- 💡 Otherwise, I love travelling,sports and  watching  movies.
+- 🔭 I specialize in developing innovative digital solutions for sectors such as healthcare, education, and e-commerce. My work reflects my commitment to using technology to address critical global challenges, particularly in combating climate change.
+
+- 🚀 I am a perfectionist and a driven worker, with a flexible work style, adapting quickly to project needs to achieve the best results. I thrive in collaborative environments, leveraging team feedback to deliver high-quality solutions.
+
+- 💼 Currently, I'm a Frontend Engineer at Planet Systems, where I lead the development of impactful systems like TELA (Teacher Effectiveness and Learner Achievement), improving operational efficiency in schools nationwide.
+
+- 🌱 I'm also passionate about teaching and sharing knowledge, and I run a YouTube channel where I share coding tutorials. Subscribe to learn how to code like a pro!
+
+- 👯 Outside of work, I'm building Senguka, a platform to find new rental houses, aiming to make house hunting easier and more reliable.
+
+- 💡 In my free time, I love traveling, playing sports, and watching movies.
+
+- 📫 You can reach me at wafulaallan5@gmail.com or check out my work on GitHub.
 
  <div>
   <a href="https://github.com/engWafula">
