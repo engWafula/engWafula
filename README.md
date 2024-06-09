@@ -1,5 +1,5 @@
 <h2 align='center'><samp><strong>WAFULA ALLAN ISAAC</strong>👋</samp></h2> 
-<h3 align='center'> <samp>Web Developer | Mobile App Developer  | BlockChain Developer | Lifelong student</samp></h3>
+<h3 align='center'> <samp>FullStack Software Engineer | Lifelong student</samp></h3>
 <br><br>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
