@@ -10,7 +10,7 @@ I’m a **Full-Stack Software Engineer** with over **5 years of experience**, bu
 My expertise spans **React**, **Next.js**, **Node.js**, **TypeScript**, **Docker**, and **PostgreSQL**, among others.  
 
 - 🎓 **Education:** B.Sc. in Computer Science, *Makerere University, Uganda*  
-- 💼 **Current Role:** Frontend Engineer @ [Planet Systems](https://planetsystems.ug)  
+- 💼 **Current Role:** Full-stack Engineer @ [Kutunza Mawazo](https://planetsystems.ug)  
 - 🧠 **Focus Areas:** Web apps, cloud systems, dashboards, and real-time applications  
 - 💡 **Impact Projects:** TELA (Teacher Effectiveness and Learner Achievement) — revolutionizing education data tracking nationwide  
 - ✨ **Philosophy:** “Build solutions that matter.”  
