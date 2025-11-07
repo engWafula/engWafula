@@ -43,13 +43,16 @@ My expertise spans **React**, **Next.js**, **Node.js**, **TypeScript**, **Docker
 > A digital education monitoring platform enabling real-time teacher attendance tracking using facial recognition.  
 Tech stack: **React, Node.js, PostgreSQL, Apache Superset**
 
-#### 🧠 [PDF Report Generator (SaaS)](https://pdf-report-server.xyz)
-> A customizable PDF generation API for developers — simplifying report creation with RESTful endpoints.  
-Tech stack: **Node.js, Express, Docker, AWS**
+#### 📰 [Presser.io - Digital News Publishing Platform](https://presser.io)
+> A modern publishing platform empowering journalists and creators to manage, distribute, and monetize digital news efficiently.  
+Features include article scheduling, content analytics, and AI-assisted editorial tools.  
+Tech stack: **Next.js, Node.js, PostgreSQL, TailwindCSS, AWS**
 
-#### 🚛 [Dashtrax - Transport & Logistics Platform](https://dashtrax.io) *(In Progress)*  
-> Real-time fleet tracking, route optimization, and logistics management for transport companies.  
-Tech stack: **NestJS, React, Prisma, MongoDB, TailwindCSS**
+#### 🏠 [Buvaaz.com - e-commerce Marketplace](https://buvaaz.com)
+> A comprehensive real estate platform connecting buyers, sellers, and agents with real-time listings, smart search, and property analytics.  
+Built for scalability and smooth user experience with secure payment integrations.  
+Tech stack: **React, NestJS, Prisma, MongoDB, Docker, NGINX**
+
 
 ---
 
